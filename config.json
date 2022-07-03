@@ -1,0 +1,24 @@
+{
+
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql+pymysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "gmail-user":"nomansanaullah2233@gmail.com",
+        "gmail-password":"wanted2233",
+        "about_text": "One of the first steps in creating a website is adding text. All of Website.com’s templates are pre-populated with sample content, including text. The sample content is intended to give you a head start by showing you the content you can have, and a possible way to arrange them on your web page. But in order to make your website yours, you will need to replace them with your own content. For example, you will need to at the very least replace the sample contact information with your own actual contact information.",
+        "no_of_posts":2,
+        "admin_user":"noman",
+        "admin_password":"now",
+        "site_heading":"CodingThunder",
+        "sub_heading":"A Blog liked by Programmers",
+        "upload_location":"C:\\Users\\Noman Sanaullah\\Desktop\\flask\\static"
+
+    }
+
+
+}
